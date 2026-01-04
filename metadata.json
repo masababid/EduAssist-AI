@@ -1,0 +1,7 @@
+{
+  "name": "EduAssist AI Helpdesk",
+  "description": "An intelligent student support system that provides course guidance, tracks queries, and facilitates human escalation for complex academic issues.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
